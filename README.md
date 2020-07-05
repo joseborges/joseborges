@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on a new version of ["Name The Game"](https://www.name-the-game-net), which I did in PHP 17 years ago, but this time made in laravel/livewire .
+- 🔭 I’m currently working on a new version of ["Name The Game"](https://www.name-the-game-net), which I did in plain PHP (17 years ago), but this time made in laravel/livewire .
 - 🌱 I’m currently learning Laravel / Livewire / TailwindCSS.
 - 👯 I’m looking to collaborate on any ZXSpectrum related project.
 - 🤔 I’m looking for help with finding as much information about ZXSpectrum games as possible.
