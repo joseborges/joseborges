@@ -6,4 +6,4 @@
 - 📫 You can also reach me on [Twitter](https://twitter.com/joselaborges), [Facebook](https://www.facebook.com/RootShell.jb/), [Instagram](https://www.instagram.com/joselaborges/), [LinkedIn](https://www.linkedin.com/in/joselaborges), [Pinterest](https://www.pinterest.pt/joselaborges/), [Twitch](https://www.twitch.tv/joselaborges) and [Bluesky](https://bsky.app/profile/joseborges.bsky.social).
 - ⚡ Fun fact: I learned to program on the ZXSpectrum 48K (BASIC) and STILL love this machine, and play games on it, even after more than 30 years.
 
-[![Jose Borges's github stats](https://github-readme-stats.vercel.app/api?username=joseborges)](https://github.com/anuraghazra/github-readme-stats)
+[![Jose Borges github stats](https://github-readme-stats.vercel.app/api?username=joseborges)](https://github.com/anuraghazra/github-readme-stats)
